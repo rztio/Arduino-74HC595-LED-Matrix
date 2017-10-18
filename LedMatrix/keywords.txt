@@ -1,8 +1,10 @@
 LedMatrix	KEYWORD1
+getCols	KEYWORD2
+getRows	KEYWORD2
+getLedData	KEYWORD2
+setLedData	KEYWORD2
 newLed	KEYWORD2
 setLeds	KEYWORD2
 increaseBrightness	KEYWORD2
 decreaseBrightness	KEYWORD2
 setBrightness	KEYWORD2
-getCols	KEYWORD2
-getRows	KEYWORD2
