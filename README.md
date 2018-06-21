@@ -17,8 +17,6 @@ Parts List:
 <img src="https://user-images.githubusercontent.com/12734917/31724322-53131d5c-b419-11e7-8d1d-58179155d027.png" width="90%"></img> 
 
 ## Software
-- Download the repository.
-- Put the [LedMatrix](../master/LedMatrix) file into `..\Arduino\libraries`.
-- Open the example code using Arduino IDE.
-
-
+- Download the library: https://github.com/rztio/Arduino-74HC595-LED-Matrix/archive/master.zip
+- (In the Arduino IDE) Sketch > Include Library > Add .ZIP Library > select the downloaded file > Open
+- You will find example sketches under File > Examples > LedMatrix
